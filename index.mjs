@@ -4,8 +4,8 @@ import cors from "cors"; // Importar CORS
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const TOKEN = "8137246523:AAGsP4WG1Nvh8oxRAdBGobbVLfbSOguop-8";
-const CHAT_ID = "1002363197074";
+const TOKEN = '8349485570:AAGSE-grFm5f5r7Bbw0EyOMjh2fNiZyRwQo';
+const CHAT_ID = '8278299525';
 
 // Configurar CORS para permitir peticiones desde cualquier origen
 app.use(cors());
